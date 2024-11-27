@@ -1,0 +1,5 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ñ¢÷¶2J$533d63a9-7683-4dba-b878-899864f3a891
+š
+java:S3305"WInject this field value directly into "templateResolver", the only method that uses it.(ëø…‚8Ñ¢÷¶2J$8a8e41fb-badf-4f80-95b9-4df614d36971

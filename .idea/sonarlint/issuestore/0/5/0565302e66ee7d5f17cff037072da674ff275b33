@@ -1,0 +1,11 @@
+
+™
+java:S1192("QDefine a constant instead of duplicating this literal "redirect:/users/" 3 times.(êİ—úÿÿÿÿ8ø®ˆø¶2J$0d45ec80-7595-4683-a027-3f75ad63e78e
+
+java:S2789;"FEnsure this "Optional" could never be null and remove this null-check.(¤¦ß‘üÿÿÿÿ8öø´ø¶2J$0e54faa8-cc78-4c78-8f88-13b80577759f
+
+java:S3655."HCall "user.isPresent()" or "!user.isEmpty()" before accessing the value.(²ˆØÏøÿÿÿÿ8Éÿ¹ø¶2J$f73e5fec-7912-41b4-a34a-45c473c7188a
+ˆ
+java:S4684&"@Replace this persistent entity with a simple POJO or DTO object.(‹‹õõşÿÿÿÿ8Ó´ø¶2J$38daf846-d9ef-4535-b804-f77a288156b1
+ˆ
+java:S46843"@Replace this persistent entity with a simple POJO or DTO object.(çŠº¥ıÿÿÿÿ8‘Ó´ø¶2J$a8e70a3a-50ba-4dbd-b9d7-dac22bc4190b
